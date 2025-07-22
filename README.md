@@ -1,2 +1,3 @@
 # apna-college
-my second repositories
+my second repository
+Author - sharan more
